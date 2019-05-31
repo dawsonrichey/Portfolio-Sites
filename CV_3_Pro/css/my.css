@@ -12,7 +12,6 @@ body > footer .copyrights {
   color: #fff;
 }
 .page-header {
-
   border-bottom: none;
 }
 
@@ -31,7 +30,7 @@ body > footer .copyrights {
     .site-title span {
   color: #000;}
 .header.mobile-menu-hide.sticked .site-title span {
-  color: #2196F3;
+  /*color: #2196F3;*/
  color: #0076d4
 }
   @media only screen and (min-width: 991px){
@@ -92,5 +91,10 @@ body > footer .copyrights {
   color: #fff;
 }
 
+.row.service-pg.bg-primary .service-image {
+
+  background-color: #fff;
+  color: #337ab7;
+}
 .dark {
 background-color: #000;}

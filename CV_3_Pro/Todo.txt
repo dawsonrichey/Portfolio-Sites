@@ -1,21 +1,21 @@
 []Add Crisp chat app
 []Add google analytics code
-[]Add profile picture
+[x]Add profile picture
 [x]Test current social media links
-[]Make background header image consistant accross all pages
+[x]Make background header image consistant accross all pages
 []Make the SEO text visable
 []Update favicon image
 []Update Education Section
 []Update Expereince Section
-[]Update skills section
+[x]Update skills section
 []Change navigation text color
-[]Update get in touch info
-[]Update google map
+[x]Update get in touch info
+[x]Update google map
 []Replace pricing section with hobbies section
 []Replace testimonials with a reference list
-[]Replace secvices content
+[x]Replace secvices content
 []Replace clients with -----?
 [x]Start a todo list
 []Fix captcha
-[]Update PHP form
+[x]Update PHP form
 
